@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="elliot_logo.png" width="700">
+</p>
 ELLIOT
 Engine for Local Logic, Inference, Operations & Testing
 “I can build anything. I just can’t program it.”
