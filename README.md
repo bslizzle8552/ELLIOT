@@ -8,7 +8,7 @@
 
 **ELLIOT** is an open-source AI collaborator designed for makers, hobbyists, and DIYers who can design, wire, and build physical things — but hit a wall when a project needs code, firmware, or data logic behind it.
 
-ELLIOT ships ready to help you add electronics to your 3D printed builds — LEDs, Arduino controllers, wiring, code — all from plain English descriptions. No programming background required. As your confidence grows, so does ELLIOT. He can help you build data loggers, dashboards, trading bots, or any Python project you can dream up.
+ELLIOT ships ready to help you add electronics to your 3D printed builds — LEDs, Arduino controllers, wiring, code — all from plain English descriptions. No programming background required. As your confidence grows, so does ELLIOT. He can help you build data loggers, dashboards, or any Python project you can dream up.
 
 **Start with LEDs. Build anything.**
 
@@ -77,11 +77,6 @@ Once you trust ELLIOT on your hardware projects, he can help with anything Pytho
 - Build local data loggers for any API or sensor feed
 - Generate visual dashboards to monitor and interpret that data
 - Validate data pipelines end-to-end before declaring success
-
-### Power user — Trading & Market Tools
-- Log and analyze market data (crypto, pump.fun, prediction markets)
-- Paper trade and live trade based on configurable rules
-- Visual P&L and performance dashboards
 
 ---
 
@@ -160,12 +155,6 @@ The key innovation is the **Sandbox Runner + Validator** — ELLIOT doesn't decl
 - [ ] Streamlit dashboard generator
 - [ ] Data sanity checking (is this real data or garbage?)
 
-### Phase 4 — Power User
-- [ ] Trading/market data pipeline support
-- [ ] Paper trading mode
-- [ ] Live execution with configurable risk limits
-- [ ] P&L visualization
-
 ---
 
 ## 🤝 Looking for Contributors
@@ -202,4 +191,3 @@ MIT — free to use, free to build on, free to fork.
 ---
 
 *Started by a maker who got tired of wrestling with tools that assume you already know how to code.*
-
